@@ -44,4 +44,4 @@ print("### DASHBOARD DE REVIEWS ###")
 print(dict_contagem)
 
 print("### REVIEWS ###")
-print("####".join(join_resenhas))
+print(join_resenhas)
